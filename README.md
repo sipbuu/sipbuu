@@ -1,15 +1,7 @@
-# 👋 Hi, I’m @Sipbuu
+##### hi, im sip, and i like to code and make games in my freetime. (still learning: C#, Java, and C++, but know these languages: python, javascript, lua, so far)
 
-# Info
+##### learn more abt me at my rentry: https://rentry.co/sipbuu
 
-- You probably see that I have "copied" some files from @jojoxoop. Well, this is my new main account and I will be moving/forwarding most of that stuff onto this account and will update my old profile to my new main one.
-# Code
+##### im on other platforms as well, also ignore old projects tht were just copies, those were for temp use
 
-- I mainly do javascript, python, html, and lua.
-# Projects
-
-- I'm not working on any "big" projects but I am working on some roblox games over at my roblox account (@waamoment)
-<!---
-Sipbuu/Sipbuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### last updated 7/22/2023
