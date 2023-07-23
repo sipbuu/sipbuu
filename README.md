@@ -4,4 +4,6 @@
 
 ##### im on other platforms as well, also ignore old projects tht were just copies, those were for temp use
 
+##### im gonna try to be more active on here 
+
 ##### last updated 7/22/2023
